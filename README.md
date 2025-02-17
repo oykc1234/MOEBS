@@ -53,4 +53,5 @@ Affiliation: Department of Mathematics, University of Science and Technology of 
 Contribution: Designed the methodology, drafted the programming code, led in analyzing the experimental results, and led in reviewing the manuscript.
 
 Email: oykc@mail.ustc.edu.cn
+
 DOI：https://doi.org/10.1038/s41598-025-88883-8
