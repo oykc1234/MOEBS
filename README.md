@@ -1,7 +1,9 @@
+![image](https://github.com/user-attachments/assets/fc125cb6-7865-4797-a97f-4b1c6f0fc685)
+
 This is the source code for the paper titled "Multiple Objectives Escaping Bird Search Optimization and Its Application in Stock Market Prediction Based on Transformer Model," published in the journal Scientific Reports. The code implements the proposed Multiple Objectives Escaping Bird Search (MOEBS) optimization algorithm and its integration with the Transformer model for stock market prediction, as described in the manuscript. It is provided to support reproducibility, facilitate further research, and enable practical applications in optimization and financial forecasting.
 Authors and Affiliations
 
-![image](https://github.com/user-attachments/assets/fc125cb6-7865-4797-a97f-4b1c6f0fc685)
+![image](https://github.com/user-attachments/assets/d70114a8-fffc-4182-a43d-749cd1e0200a)
 
 
 This work is a collaborative effort by the following authors:
